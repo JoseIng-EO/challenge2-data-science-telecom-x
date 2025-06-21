@@ -1,3 +1,4 @@
 # CHALENGE 2 - TELECOM_X
 
-## Carga de los archivos
+## 1. Importación y normalización del dataframe
+## 2. Anidado de la normalización
