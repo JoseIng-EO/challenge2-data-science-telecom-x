@@ -66,6 +66,6 @@ Este proyecto permitió a Telecom X:
 
 =============================================================================================
 
-# Autor: José Antonio González Rojas
-# Estudiante de Data Science
-# Contacto: jagrojas75@gmail.com
+## Autor: José Antonio González Rojas
+## Estudiante de Data Science
+## Contacto: jagrojas75@gmail.com
