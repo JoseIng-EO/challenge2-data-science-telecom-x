@@ -64,4 +64,8 @@ Este proyecto permitió a Telecom X:
   * Preparar los datos de forma estructurada para análisis avanzados.
   * Obtener recomendaciones prácticas para mejorar la retención y reducir el abandono de servicios.
 
+=============================================================================================
 
+# Autor: José Antonio González Rojas
+# Estudiante de Data Science
+# Contacto: jagrojas75@gmail.com
